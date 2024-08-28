@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("JoKenPo V0.PAPEL");
         System.out.println("Escolha uma opção.");
-        System.out.println("\nPAPEL. PAPEL - TESOURA. TESOURA - PEDRA. PEDRA");
+        System.out.println("\n1 - PAPEL\n 2 - TESOURA\n 3 - PEDRA\n 4 - LAGARTO\n5 - SPOCK\n\n");
 
         Scanner in = new Scanner(System.in);
 
